@@ -65,3 +65,4 @@ cat correctAnswer >>log
 cat "Correct value is" correctVal >>log
 
 rm code gen brute input_file myAnswer correctAnswer myVal correctVal checker
+read -p "Press Enter to continue..."
