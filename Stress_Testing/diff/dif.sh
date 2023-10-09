@@ -51,3 +51,4 @@ cat myAnswer >>log.txt
 echo "Correct answer is:" >>log.txt
 cat correctAnswer >>log.txt
 rm code gen brute input_file myAnswer correctAnswer
+read -p "Press Enter to continue..."
